@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Login Window/1.0.0": {
+        "runtime": {
+          "Login Window.dll": {}
+        },
+        "resources": {
+          "aa/Login Window.resources.dll": {
+            "locale": "aa"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Login Window/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
