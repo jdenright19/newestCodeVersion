@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turtl\\Desktop\\myNewestChanges\\Login Window.csproj": {}
+    "C:\\Users\\turtl\\Source\\Repos\\newestCodeVersiontest\\myNewestChanges\\Login Window.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turtl\\Desktop\\myNewestChanges\\Login Window.csproj": {
+    "C:\\Users\\turtl\\Source\\Repos\\newestCodeVersiontest\\myNewestChanges\\Login Window.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turtl\\Desktop\\myNewestChanges\\Login Window.csproj",
+        "projectUniqueName": "C:\\Users\\turtl\\Source\\Repos\\newestCodeVersiontest\\myNewestChanges\\Login Window.csproj",
         "projectName": "Login Window",
-        "projectPath": "C:\\Users\\turtl\\Desktop\\myNewestChanges\\Login Window.csproj",
+        "projectPath": "C:\\Users\\turtl\\Source\\Repos\\newestCodeVersiontest\\myNewestChanges\\Login Window.csproj",
         "packagesPath": "C:\\Users\\turtl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turtl\\Desktop\\myNewestChanges\\obj\\",
+        "outputPath": "C:\\Users\\turtl\\Source\\Repos\\newestCodeVersiontest\\myNewestChanges\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
