@@ -62,5 +62,10 @@ namespace Login_Window
         {
 
         }
+
+        private void Faculty_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

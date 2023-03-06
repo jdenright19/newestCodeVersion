@@ -52,7 +52,7 @@ namespace Login_Window
             //shows form one need to make if else statment that brings up errors and moves onto class list.
             //var Form1 = new Form1();
             //Form1.Show();
-            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\turtl\Desktop\UserDatabase.txt");
+            string[] lines = System.IO.File.ReadAllLines(@"C:\SE Repos\SE Forms\UserDatabase.txt");
             List<String> Userdatabase = new List<String>();
             var Userlist = new Dictionary<int, dynamic>();
             foreach (string line in lines)
@@ -96,8 +96,8 @@ namespace Login_Window
                 }
                 if (username1 == Userlist[i].usrs.usrname && password2 == Userlist[i].usrs.pswd && Userlist[i].usrs.s == "faculty")
                 {
-                    AddDrop addForm = new AddDrop(username1);
-                    addForm.Show();
+                    Faculty facForm = new Faculty(username1);
+                    facForm.Show();
                     invalid2 = false;
                     //Faculty facultyForm = new Faculty(username1);
                     //facultyForm.Show();

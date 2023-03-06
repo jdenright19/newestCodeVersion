@@ -50,3 +50,29 @@ C:\Users\turtl\Desktop\myNewestChanges\bin\Debug\net6.0-windows\aa\Login Window.
 C:\Users\turtl\Desktop\myNewestChanges\obj\Debug\net6.0-windows\aa\Login Window.resources.dll
 C:\Users\turtl\Desktop\myNewestChanges\obj\Debug\net6.0-windows\Login Window.genruntimeconfig.cache
 C:\Users\turtl\Desktop\myNewestChanges\obj\Debug\net6.0-windows\ref\Login Window.dll
+C:\SE Repos\SE Forms\myNewestChanges\bin\Debug\net6.0-windows\Login Window.exe
+C:\SE Repos\SE Forms\myNewestChanges\bin\Debug\net6.0-windows\Login Window.deps.json
+C:\SE Repos\SE Forms\myNewestChanges\bin\Debug\net6.0-windows\Login Window.runtimeconfig.json
+C:\SE Repos\SE Forms\myNewestChanges\bin\Debug\net6.0-windows\Login Window.dll
+C:\SE Repos\SE Forms\myNewestChanges\bin\Debug\net6.0-windows\Login Window.pdb
+C:\SE Repos\SE Forms\myNewestChanges\bin\Debug\net6.0-windows\aa\Login Window.resources.dll
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login Window.csproj.AssemblyReference.cache
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Form.AddDrop.resources
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login_Window.Admin.resources
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login_Window.Faculty.resources
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login_GUI.formWin.resources
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login_Window.Login_Window.resources
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Overload_Warning.OverloadForm.resources
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Warning_Form.warningForm.resources
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login_Window.Login_Window.aa.resources
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login Window.csproj.GenerateResource.cache
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login Window.AssemblyInfoInputs.cache
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login Window.AssemblyInfo.cs
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login Window.csproj.CoreCompileInputs.cache
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\aa\Login Window.resources.dll
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login Window.dll
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\refint\Login Window.dll
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login Window.pdb
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\Login Window.genruntimeconfig.cache
+C:\SE Repos\SE Forms\myNewestChanges\obj\Debug\net6.0-windows\ref\Login Window.dll

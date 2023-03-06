@@ -32,7 +32,7 @@ namespace Form
         {
             InitializeComponent();
             List<String> Coursedatabase = new List<String>();
-            string[] lines2 = System.IO.File.ReadAllLines(@"C:\Users\turtl\Desktop\CourseDatabase.txt");
+            string[] lines2 = System.IO.File.ReadAllLines(@"C:\SE Repos\SE Forms\CourseDatabase.txt");
             this.user = user;
 
             //Katie's Pathway : C:\Users\katie\Downloads\main-master\main-master\CourseDatabase.txt
