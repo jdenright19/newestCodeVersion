@@ -21,7 +21,7 @@ namespace Login_Window
             FacultyName = user;
             List<String> Coursedatabase = new List<String>();
             var Courselist = new Dictionary<int, dynamic>();
-            string[] lines2 = System.IO.File.ReadAllLines(@"C:\Users\turtl\Desktop\CourseDatabase.txt");
+            string[] lines2 = System.IO.File.ReadAllLines(@"C:\SE Repos\SE Forms\CourseDatabase.txt");
             System.Console.WriteLine("Contents of Course database");
 
             foreach (string line in lines2)
@@ -64,6 +64,11 @@ namespace Login_Window
         }
 
         private void Faculty_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
